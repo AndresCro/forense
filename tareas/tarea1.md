@@ -24,3 +24,4 @@
     
 ## Parte 2:
 
+    ![tabla]://github.com/AndresCro/forense/blob/master/img/tabla.png)
