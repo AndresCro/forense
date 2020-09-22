@@ -24,4 +24,4 @@
     
 ## Parte 2:
 
-    ![tabla](https://github.com/AndresCro/forense/blob/master/img/tabla.png)
+    ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
